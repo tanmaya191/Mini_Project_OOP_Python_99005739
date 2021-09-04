@@ -76,5 +76,5 @@ PS ID |  Name
 
 ## Pictures
 
-![image](https://github.com/tanmaya191/Mini_Project_OOP_Python_99005739blob/main/5_Images_and_videos/Capture1.png?raw=true)
+![image](https://github.com/tanmaya191/Mini_Project_OOP_Python_99005739/blob/main/5_ImagesAndVideos/Capture1.PNG?raw=true)
 
