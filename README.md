@@ -5,7 +5,7 @@
 ## Owner- Tanmaya Prasad Mangaraj
 ## PS ID- 99005739
 * Linkedin : [Tanmaya Mangaraj](https://www.linkedin.com/in/tanmaya-prasad-mangaraj-8b6ba8183/)
- 
+* Hackerrank Certificate : [Certificate link](https://www.hackerrank.com/certificates/10dba6ee0a0b/) 
 
 Code Inspector Badges |
 ----------|
