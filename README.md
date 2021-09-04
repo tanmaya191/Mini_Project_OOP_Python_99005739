@@ -7,8 +7,11 @@
 * Linkedin : [Tanmaya Mangaraj](https://www.linkedin.com/in/tanmaya-prasad-mangaraj-8b6ba8183/)
  
 
-Build | Code Quality | Unity | [Git Inspector]  | Code coverage
-------|----------|-------|--------------|-------------
+Code Inspector Badges |
+----------|
+![Code Inspector](https://www.code-inspector.com/project/27311/score/svg)
+![Code Inspector](https://www.code-inspector.com/project/27311/status/svg)
+
 
 
 # Steps for Execution:
@@ -40,7 +43,7 @@ Folder             | Description
 -------------------| --------------------------------------------------
 `1_Requirements`   | Documents detailing requirements, SWOT Analysis
 `2_Architecture`   | Design flow of the project
-`3_Implementation` | All code 
+`3_Implementation` | All code and executable file
 `4_TestPlanAndOutput`      | Documents with test plans and procedures
 `5_ImagesAndVideos`| Screenshots and Images
 
