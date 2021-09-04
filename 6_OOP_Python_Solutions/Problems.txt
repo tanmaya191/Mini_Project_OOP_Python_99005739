@@ -1,0 +1,60 @@
+Set 1:
+* Biggest of four numbers
+* Check if given number is armstrong or not
+* Compute GCD/HCF of two numbers
+* LCM without computing GCD/HCF
+* Check if given year is Leap year or not
+* Type of triangle - equilateral, isosceles, scalene, right angled
+* Find roots of a quadratic equation
+* Find Quadrant of a given point (x,y)
+* Check if given character is vowel or consonant
+* Perform choice based arithmetic (1-add, 2-sub,3-mul,4-div)
+
+
+Set 2:
+* Find Digital root of a given number, 7895 -> 29 -> 11 -> 2
+* Factorial of a given number
+* Sum of the factors of given number, n=30, 1+2+3+5+6+10+15
+* Count no.of prime numbers for given range
+* Compute triangular number, for given number N , n=4, 1 + (1+2) + (1+2+3) + (1+2+3+4) = 20
+* Find maximum number by deleting single digit in a 4 digit number
+     5872  - 872,   9865 - 985
+* No.of combinations for n teams to play each other,  i.e. compute nCr
+
+Set 3:
+## Data Structures
+* In a given list of elements, all elements are equal except the one.Write a code to find the odd man out (Stray number)
+* In a given list of elements, find the elements which is close to its mean
+* Find the average speed of vehicle, given the distance travelled for fixed time intervals, e.g. [0, 0.1, 0.25, 0.45, 0.55, 0.7, 0.9, 1.0]
+* Find the no.of people in a bus, given the data of people onboarding & alighting at each station
+* Find the missing number, given the original list and modified one
+* Find the difference between two lowest numbers in the list
+* In a given list, count no.of elements smaller than their mean
+
+
+Set 4:
+## String Handling
+* Correct the malformed date string , for e.g. "45/8/2018" to "14/9/2018"
+* Convert ip address from "a.b.c.d" format into integer and vice versa
+* Check whether given string is isogram or not
+* Given a string, find the mexican wave
+* Given a number, find the largest number by deleting single digit (order of digits will remain same)
+* Given a number, find the largest number by shuffling the digits
+* Compute the word frequency in given message
+* RGB to Hex conversion and vice versa, e.g. (255,0,255) into 0xFF00FF
+* Generate accumulated strings,e.g. abcd ==> A-Bb-Ccc-Dddd
+
+
+1. Regular expression - file handling
+
+ a. create a text file with alphanumeric data
+
+ b. write a python program using regular expressions to identify user-defined word and display the output
+
+
+
+2. Regular expression - file handling
+
+ a. create a file (text / excel) with employee details
+
+ b. write a python program using regular expressions to identify "valid" email ID
